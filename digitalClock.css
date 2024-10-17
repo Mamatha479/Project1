@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-#container{
+#container1{
     width: 25%;
     height: 50%;
     backdrop-filter: blur(10px);
